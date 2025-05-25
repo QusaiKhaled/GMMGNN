@@ -56,4 +56,7 @@ Dataset Source: [Kaggle - River Water Quality EDA and Forecasting (Mokin, 2020)]
 - **F1-Score**: 79.42%
 - Performance evaluated on spatially varying anomalies across stations
 
-## 📂 Repository Structure
+## 📂 Reading the paper
+If you would like to learn more about this work,
+Check out the publication in the following link
+https://cdn.bullit.digital/kbase/20250507173748/ncr_bundle_template_2025_compressed.pdf
